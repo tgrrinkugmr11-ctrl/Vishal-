@@ -1,0 +1,6 @@
+{
+  "name": "GPay",
+  "description": "A payment app like Google Pay featuring contact-based payments, simulated bank balances, scratch card rewards, instant utility recharges, QR scanner, and secure transaction histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
